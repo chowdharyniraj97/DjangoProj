@@ -7,5 +7,5 @@ class Destination:
     img  : str
     desc : str
     img : str
-
+    offer : bool
 
